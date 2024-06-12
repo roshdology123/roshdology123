@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a recent graduate highly motivated software developer<br> with experience in Flutter. Skilled in UI design, API integrations, Bloc, Getx, and <br>Riverpod state management, I have a strong background in machine <br>learning algorithms and database design. <br><br>
+I am a highly motivated software developer currently working as a Flutter developer at CodeStan. Skilled in UI design, API integrations, Bloc, Getx, and Riverpod state management, I have a strong background in machine learning algorithms and database design. <br><br>
 
 
 ## 🌐 Socials:
