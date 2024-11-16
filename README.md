@@ -24,5 +24,5 @@ I am a highly motivated software developer currently working as a Flutter develo
 
 **Download Book Shuffle:**
 
-- [![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/eg/app/book-shuffle/id6473519186)
-- [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.bookshuffle.bookshuffle)
+[![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/eg/app/book-shuffle/id6473519186)
+[![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Download-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.bookshuffle.bookshuffle)
